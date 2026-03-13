@@ -48,7 +48,7 @@ Background removal tools isolate the foreground subject and remove or replace th
 - JavaScript
 
 ### Backend
-- Python / Node.js (depending on your implementation)
+- Node.js
 
 ### Image Processing
 - Background removal algorithm
@@ -65,9 +65,9 @@ Image-Background-Remover
 │
 ├── templates
 │
-├── app.py / server.js
+├── server.js
 │
-├── requirements.txt / package.json
+├── package.json
 │
 └── README.md
 ```
