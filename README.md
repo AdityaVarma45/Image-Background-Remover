@@ -20,8 +20,10 @@ The application helps designers, developers, and content creators quickly remove
 ## 🖼️ Application Screenshots
 
 Add screenshots of your project here.
-<img width="1920" height="1080" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/0acc09f6-7f95-406a-ae7b-83da32672424" />
-<img width="1920" height="1080" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/13a4de54-f687-4210-93d9-19111754a0bf" />
+<img width="1920" height="1080" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/fa00e2e2-743d-4665-b7f6-15e69ce26702" />
+<img width="1920" height="1080" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/1413dce5-43f4-424f-9469-ebc65d329df7" />
+
+
 
 
 ---
